@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AlphabetCountMR:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlphabetCountMR_jar</output-path>
+    <root id="archive" name="AlphabetCountMR.jar">
+      <element id="module-output" name="AlphabetCountMR" />
+      <element id="extracted-dir" path="$USER_HOME$/BigdataHadoop material/hadoop-common-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/BigdataHadoop material/hadoop-mapreduce-client-core-2.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
